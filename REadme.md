@@ -81,8 +81,7 @@ Detection and Report Generation Interface
 
 <img width="1911" height="983" alt="Screenshoot6" src="https://github.com/user-attachments/assets/4c71cf10-2af0-44c4-be93-df8b10789c40" />
 
-💡 You can create a Screenshots/ folder in your repo and place all your images there.
-Then rename them (e.g., Screenshot1.png, Screenshot2.png, etc.) for clean linking.
+
 
 🧩 How to Run
 
