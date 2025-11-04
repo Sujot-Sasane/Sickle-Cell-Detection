@@ -61,20 +61,25 @@ Registration and Login Interface
 
 
 
+<img width="1738" height="961" alt="Screenshoot2" src="https://github.com/user-attachments/assets/2caf2f53-fe97-4c87-ab6b-ea32e8b2124c" />
 
 🔹 Image Processing Pipeline
 
 Original → Grayscale → Binary → Watershed Output
 
+<img width="1888" height="877" alt="Screenshoot3" src="https://github.com/user-attachments/assets/b6abf131-66d0-4a2f-8bf2-00fe19312794" />
 
 
+<img width="1845" height="889" alt="Screenshoot4" src="https://github.com/user-attachments/assets/257765bc-e1f7-40e3-bb04-b34167420607" />
 
 🔹 Prediction Output
 
 Detection and Report Generation Interface
 
+<img width="1871" height="905" alt="Screenchoot5" src="https://github.com/user-attachments/assets/f40e8f01-15cb-4230-bfc6-7f3b111b7e04" />
 
 
+<img width="1911" height="983" alt="Screenshoot6" src="https://github.com/user-attachments/assets/4c71cf10-2af0-44c4-be93-df8b10789c40" />
 
 💡 You can create a Screenshots/ folder in your repo and place all your images there.
 Then rename them (e.g., Screenshot1.png, Screenshot2.png, etc.) for clean linking.
