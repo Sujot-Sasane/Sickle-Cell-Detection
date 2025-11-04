@@ -57,6 +57,7 @@ Shows other cell abnormalities if present.
 🔹 GUI Screens
 
 Registration and Login Interface
+<img width="1862" height="956" alt="Screenshoot1" src="https://github.com/user-attachments/assets/bb3204f2-f2d2-4f02-8517-0998019bf0d0" />
 
 
 
